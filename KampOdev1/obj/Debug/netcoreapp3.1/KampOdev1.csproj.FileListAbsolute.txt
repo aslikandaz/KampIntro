@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.AssemblyInfo.cs
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KampIntro\KampOdev1\bin\Debug\netcoreapp3.1\KampOdev1.exe
+C:\Users\PC\source\repos\KampIntro\KampOdev1\bin\Debug\netcoreapp3.1\KampOdev1.deps.json
+C:\Users\PC\source\repos\KampIntro\KampOdev1\bin\Debug\netcoreapp3.1\KampOdev1.runtimeconfig.json
+C:\Users\PC\source\repos\KampIntro\KampOdev1\bin\Debug\netcoreapp3.1\KampOdev1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\KampIntro\KampOdev1\bin\Debug\netcoreapp3.1\KampOdev1.dll
+C:\Users\PC\source\repos\KampIntro\KampOdev1\bin\Debug\netcoreapp3.1\KampOdev1.pdb
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.dll
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.pdb
+C:\Users\PC\source\repos\KampIntro\KampOdev1\obj\Debug\netcoreapp3.1\KampOdev1.genruntimeconfig.cache

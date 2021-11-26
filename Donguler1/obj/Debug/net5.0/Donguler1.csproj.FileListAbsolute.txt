@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\KampIntro\Donguler1\bin\Debug\net5.0\Donguler1.exe
+C:\Users\PC\source\repos\KampIntro\Donguler1\bin\Debug\net5.0\Donguler1.deps.json
+C:\Users\PC\source\repos\KampIntro\Donguler1\bin\Debug\net5.0\Donguler1.runtimeconfig.json
+C:\Users\PC\source\repos\KampIntro\Donguler1\bin\Debug\net5.0\Donguler1.runtimeconfig.dev.json
+C:\Users\PC\source\repos\KampIntro\Donguler1\bin\Debug\net5.0\Donguler1.dll
+C:\Users\PC\source\repos\KampIntro\Donguler1\bin\Debug\net5.0\ref\Donguler1.dll
+C:\Users\PC\source\repos\KampIntro\Donguler1\bin\Debug\net5.0\Donguler1.pdb
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.AssemblyInfo.cs
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.dll
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\ref\Donguler1.dll
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.pdb
+C:\Users\PC\source\repos\KampIntro\Donguler1\obj\Debug\net5.0\Donguler1.genruntimeconfig.cache
